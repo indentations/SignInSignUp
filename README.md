@@ -1,7 +1,7 @@
 # SignInSignUp
 Sign In Signup Reactjs ,Nodejs JWT Based Project 
 
-1:  After download Unzip folder
+1:  After clone this project, Unzip it
 
 2:  Open Unzipped folder in Editor
 
@@ -15,7 +15,7 @@ Sign In Signup Reactjs ,Nodejs JWT Based Project
 
 6:  run this command:cd BackendMicroservices
 
-7:  delete node_modules folder copletely
+7:  delete node_modules folder copletely in BackendMicroservices
 
 8:  run this command : npm install
 
