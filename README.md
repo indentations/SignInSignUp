@@ -11,6 +11,8 @@ Sign In Signup Reactjs ,Nodejs JWT Based Project
 
 5:  After complete installations run this command:npm start
 
+5.1: run this command : cd ..
+
 6:  run this command:cd BackendMicroservices
 
 7:  delete node_modules folder copletely
